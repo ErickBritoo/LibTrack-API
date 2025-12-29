@@ -1,0 +1,1 @@
+Este projeto tem como objetivo o desenvolvimento de um Sistema de Gerenciamento de Biblioteca Pessoal, voltado à organização de livros físicos e ao controle de empréstimos realizados entre pessoas conhecidas, como amigos e familiares.
